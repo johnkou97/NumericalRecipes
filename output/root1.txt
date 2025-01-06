@@ -1,0 +1,18 @@
+Using False-Position
+
+T = 32539.1267375
+Accuracy = 2e-16
+number of iterations = 20
+
+
+Using Newton-Raphson
+
+Starting from a = 2.0e+05
+T = 32539.1267375
+Accuracy = 2e-15
+number of iterations = 5
+
+Starting from a = 1.0e+04
+T = 32539.1267375
+Accuracy = 2e-16
+number of iterations = 4

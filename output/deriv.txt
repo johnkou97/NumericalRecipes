@@ -1,0 +1,3 @@
+numerical dn/dx = -0.6253286087841
+analytic dn/dx  = -0.6253286087841
+abs difference  = 2e-14

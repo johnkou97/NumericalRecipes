@@ -1,0 +1,4 @@
+Time needed for 100 repetitions of each algorithm in seconds
+Using LU decomposition of Vandermonde matrix with 1 iteration: 1.1621
+Using Neville algorithm: 16.3392
+Using LU decomposition of Vandermonde matrix with 10 iterations: 1.2770

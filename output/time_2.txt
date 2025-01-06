@@ -1,0 +1,8 @@
+For equation 1
+Average time for Newton-Raphson = 2.91e-05
+Average time for False-Position = 5.41e-05
+
+For equation 2
+Average time for nH=1e-4 = 9.42e-05
+Average time for nH=1    = 4.15e-05
+Average time for nH=1e4  = 3.75e-05

@@ -1,0 +1,11 @@
+Using Secant Algorithm
+
+for nH = 10^0, T = 33861.3002352, rel error = 8e-14, num of iter = 9
+for nH = 10^4, T = 10525.8860197, rel error = 3e-15, num of iter = 8
+
+
+Using Newton-Raphson Algorithm
+
+for nH = 10^-4, T = 1.60647887537e+14, rel error = 5e-13, num of iter = 9
+for nH = 10^0, T = 33861.3002352, rel error = 9e-17, num of iter = 22
+for nH = 10^4, T = 10525.8860197, rel error = 2e-15, num of iter = 22

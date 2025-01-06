@@ -1,0 +1,39 @@
+dataset m11
+chi^2 G = 146.87860059372406
+chi^2 G test Q = 0.0
+poisson G = 2.5164469878842217
+poisson G test Q = 0.9999806945960857
+chi^2 k-s test Q = 1.0
+poisson k-s Q = 1.0
+
+dataset m12
+chi^2 G = 42.12958916141422
+chi^2 G test Q = 0.0006423825630412772
+poisson G = 9.232189705313631
+poisson G test Q = 0.9326945350680935
+chi^2 k-s test Q = 1.0
+poisson k-s test Q = 1.0
+
+dataset m13
+chi^2 G = 29.722170087399313
+chi^2 G test Q = 0.028419725947152807
+poisson G = 18.26744780379846
+poisson G test Q = 0.372159400963064
+chi^2 k-s test Q = 1.0
+poisson k-s test Q = 1.0
+
+dataset m14
+chi^2 G = 44.377213942015125
+chi^2 G test Q = 0.00030126544168485037
+poisson G = 45.74657896215117
+poisson G test Q = 0.0001883593934713934
+chi^2 k-s test Q = 1.0
+poisson k-s test Q = 1.0
+
+dataset m15
+chi^2 G = 35.53129661682164
+chi^2 G test Q = 0.005294198451321508
+poisson G = 24.925083339804875
+poisson G test Q = 0.09639908224762805
+chi^2 k-s test Q = 1.0
+poisson k-s test Q = 1.0
